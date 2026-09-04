@@ -1,0 +1,3 @@
+#define MAXIMUM_STUDENTS 60
+#define PASS_MARKS 35
+#define MAXIMUM_SUBJECTS 6
